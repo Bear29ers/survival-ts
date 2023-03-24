@@ -1,0 +1,15 @@
+{
+  "name": "prettier-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier src",
+    "prettier-write": "prettier --write src"
+  },
+  "author": "Yuta Okuma",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}
